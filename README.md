@@ -83,9 +83,4 @@ Before you begin, ensure you have the following installed:
 
 For questions or feedback, please contact: manibharathi642@gmail.com
 
-- **Mani Bharathi**  
-  - GitHub: [@manibharathi19](https://github.com/manibharathi19)
 
----
-
-Feel free to add or modify this README file to suit your project's specifics. Let me know if you need further assistance!
